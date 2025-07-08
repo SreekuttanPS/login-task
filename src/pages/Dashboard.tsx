@@ -38,10 +38,12 @@ function DashboardPage() {
           <div>✅ Library: React</div>
           <div>✅ TypeScript: Yes</div>
           <div>✅ Styling: Tailwind CSS</div>
+          <div>✅ Responsive: Yes</div>
           <div>✅ Validation: React Hook Form + Zod</div>
           <div>✅ API Call: fetch to dummy endpoint</div>
           <div>✅ State: local state and local storage</div>
-          <div>✅ Responsive: Yes</div>
+          <div>✅ Protected Routes: Yes</div>
+          <div>✅ Save user locally: Yes</div>
         </div>
         <button
           onClick={onLogOut}
